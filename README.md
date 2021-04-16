@@ -8,7 +8,7 @@ This repo stores resources from the Python GIS demo which was initially run on 1
 
 - Slides from the demo in [HTML](./python-gis-notebook.slides.html) or [PDF](./python-gis-notebook.slides.pdf) format.
 - [A video recording of the session is available here.](https://ukri.zoom.us/rec/share/ZtoibIO4xgP5G-6_V7fJreY-VGoSL8BhpvJtC0xoDNNmQaL_CqsSuDAsemdnUatm.cg4hL8tZV36mWb8D?startTime=1618315604000)
-- The Jupyter Notebook used to create the slides [can be launched in Binder](https://mybinder.org/v2/gh/ceeds-coding-club/python-gis-demo/HEAD?filepath=python-gis-notebook.ipynb) and is also [available here in this repo](./python-gis-notebook.ipynb).
+- The Jupyter Notebook used to create the slides [can be launched in Binder](https://mybinder.org/v2/gh/ceeds-coding-club/python-gis-demo/HEAD?filepath=python-gis-notebook.ipynb) (note that viewing the `.ipynb` file via GitHub isn't recommended as images don't show correctly).
 - The [environment.yaml](./environment.yaml) file can be used to create a Conda environment with all the requirement to run the notebook (Binder used this file). If you have Conda installed, run `conda env create -f environment.yaml` from this directory.
 - The data used in the demo is stored in [data/](./data).
 
