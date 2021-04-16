@@ -1,0 +1,10 @@
+name: python-gis
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - rasterio
+  - rioxarray
+  - matplotlib
+  - ipykernel
+  - rise
